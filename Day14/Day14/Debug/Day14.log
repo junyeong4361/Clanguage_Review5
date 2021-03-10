@@ -1,0 +1,4 @@
+﻿  program5_10.c
+c:\users\junye\onedrive\바탕 화면\workspace\c언어\day11\day14\day14\program5_10.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Day14.vcxproj -> C:\Users\junye\OneDrive\바탕 화면\WorkSpace\C언어\Day11\Day14\Debug\Day14.exe
